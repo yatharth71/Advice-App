@@ -65,3 +65,16 @@ body {
   border-radius: 50%;
   display: inline-block;
 }
+
+@media only screen and (max-width: 541px) {
+  .advice {
+    width: 400px;
+  }
+  .divider{ 
+    width: 96%
+  }
+}
+
+.divider {
+  margin-bottom: 35px;
+}
